@@ -11,7 +11,7 @@ Mise à jour de Debian 12 pour RX7700/7800XT
 - une fois dans le chroot :
 
     cd root
-    wget t.ly/HyLQI
-    bash HyLQI
+    wget https://t.ly/CtNki
+    bash CtNki
 
 - Une fois fini, tapez exit 2 fois pour revenir à l'installateur et finir l'installation.
