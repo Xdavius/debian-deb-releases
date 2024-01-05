@@ -9,7 +9,7 @@ Pin-Priority : -1
 " > /etc/apt/preferences.d/sid
 
 apt update -y
-apt install -y linux-image-amd64 linux-headers-amd64
+apt install -y -t sid linux-image-amd64 linux-headers-amd64
 dpkg -i firmware-amd-graphics_20240104-1.deb
 
 rm /etc/apt/sources.list.d/sid.list
