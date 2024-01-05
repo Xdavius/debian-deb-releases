@@ -6,7 +6,7 @@ Mise à jour de Debian 12 pour RX7700/7800XT
 - Install Expert
 - Avant de choisir Terminer l'installation, choisir Entrer dans un shell puis :
 
-        chroot /target
+        chroot /target bash
 
 - une fois dans le chroot :
 
